@@ -483,16 +483,6 @@
 
 <hr style="border:40px solid gray"> </hr>
 
-# Connect With me 
-🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
-🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
-
-<hr style="border:40px solid gray"> </hr>
-
------
-🔴🔴🔴
------
-
 
 <hr style="border:1000px solid gray"> </hr>
 <hr style="border:1000px solid gray"> </hr>
@@ -601,6 +591,5 @@ These all resources will guide you in understanding fundamental concepts to be l
 
 # Connect With me 
 🎈[AI NewsLatter](https://www.linkedin.com/newsletters/6872441622500585472/) <br>
-
-@MvMukesh
+🎈[LinkedIn](https://www.linkedin.com/in/mukesh-manral/)
  
